@@ -1,0 +1,17 @@
+{
+  "title": "Menu Maker by Qwenta",
+  "description": "Projet de préparation au développement d'une application de création de menus pour restaurateurs. Le travail réalisé portait sur la méthodologie Agile Scrum, la construction d'un Kanban, la rédaction d'un document de spécifications techniques et la mise en place d'une veille technologique.",
+  "technologies": [
+    "Agile Scrum",
+    "Kanban",
+    "Spécifications techniques",
+    "Veille technologique",
+    "Analyse fonctionnelle",
+    "Gestion de projet"
+  ],
+  "image": "assets/preview.png",
+  "logo": "assets/logo.png",
+  "demoUrl": "",
+  "featured": true,
+  "category": "Gestion de projet"
+}
