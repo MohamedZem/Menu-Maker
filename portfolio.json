@@ -1,17 +1,63 @@
 {
   "title": "Menu Maker by Qwenta",
-  "description": "Projet de préparation au développement d'une application de création de menus pour restaurateurs. Le travail réalisé portait sur la méthodologie Agile Scrum, la construction d'un Kanban, la rédaction d'un document de spécifications techniques et la mise en place d'une veille technologique.",
+    "description": "Projet de préparation au développement d'une application de création de menus pour restaurateurs. Le travail réalisé portait sur la méthodologie Agile Scrum, la construction d'un Kanban, la rédaction d'un document de spécifications techniques et la mise en place d'une veille technologique.",
+
   "technologies": [
     "Agile Scrum",
     "Kanban",
-    "Spécifications techniques",
-    "Veille technologique",
+    "Figma",
+    "Notion"
+  ],
+
+ "image": "assets/preview.png",
+
+  "gallery": [
+    "assets/kanban.png",
+    "assets/maquette1.png",
+    "assets/maquette2.png",
+    "assets/maquette3.png",
+    "assets/maquette4.png",
+    "assets/maquette5.png",
+    "assets/maquette6.png"
+    
+  ],
+
+  "logo": "assets/logo.png",
+
+  "demoUrl": "",
+
+  "featured": true,
+
+  "category": "Gestion de projet",
+
+  "context": "Projet de préparation au développement consistant à analyser les besoins, définir l'architecture fonctionnelle et planifier les développements d'une application destinée aux restaurateurs.",
+
+  "objectives": [
+    "Analyser les besoins fonctionnels.",
+    "Rédiger les spécifications techniques.",
+    "Organiser le développement avec Scrum.",
+    "Préparer une veille technologique."
+  ],
+
+  "skills": [
+    "Méthode Agile",
+    "Scrum",
+    "Kanban",
     "Analyse fonctionnelle",
+    "Spécifications techniques",
     "Gestion de projet"
   ],
-  "image": "assets/preview.png",
-  "logo": "assets/logo.png",
-  "demoUrl": "",
-  "featured": true,
-  "category": "Gestion de projet"
+
+  "results": [
+    "Spécifications techniques complètes.",
+    "Backlog produit priorisé.",
+    "Tableau Kanban.",
+    "Présentation du projet."
+  ],
+
+  "improvements": [
+    "Développer l'application complète.",
+    "Ajouter des tests utilisateurs.",
+    "Déployer une première version."
+  ]
 }
